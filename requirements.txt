@@ -1,0 +1,22 @@
+# LLM Agent Amazon Shopping Demo Requirements
+
+# Core dependencies
+python-dotenv==1.0.0
+openai>=1.0.0
+
+# Sentience SDK (for Demo 1)
+# Install with: pip install -e ../ (from playground directory)
+
+# Browser automation (for Demo 2)
+# NOTE: Using latest Playwright (1.57+) for macOS compatibility
+playwright>=1.57.0
+
+# Video generation - MoviePy 1.x
+moviepy==1.0.3
+Pillow==10.2.0
+decorator==4.4.2
+imageio==2.31.1
+imageio-ffmpeg==0.4.9
+
+# Utilities
+requests==2.31.0
