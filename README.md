@@ -24,7 +24,7 @@
 - **SDK Approach**: ✅ 100% success (2,636 tokens with 73% optimization)
 - **Vision Approach**: ❌ 0% success (0/2 runs completed)
 
-[📊 Full Comparison Report](docs/GOOGLE_SEARCH_COMPARISON_REPORT.md)
+[📊 Full Comparison Report](google_search/GOOGLE_SEARCH_COMPARISON_REPORT.md)
 
 ---
 
@@ -268,7 +268,7 @@ Edit `filter_elements()` in each demo's `main.py` to customize:
 
 - [Google Search Demo Plan](docs/GOOGLE_SEARCH_DEMO_PLAN.md)
 - [Amazon Shopping Demo Plan](docs/LLM_AGENT_AMAZON_SHOPPING_DEMO_PLAN.md)
-- [Google Comparison Report](docs/GOOGLE_SEARCH_COMPARISON_REPORT.md)
+- [Google Comparison Report](google_search/GOOGLE_SEARCH_COMPARISON_REPORT.md)
 - [Amazon Comparison Report](docs/DEMO_COMPARISON_REPORT.md)
 - [Setup Guide](docs/SETUP.md)
 - [Quickstart Guide](docs/QUICKSTART.md)
