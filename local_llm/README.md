@@ -73,7 +73,7 @@ bash cleanup_mac_cache.sh
 #### Step 1: Install Dependencies
 
 ```bash
-cd /Users/guoliangwang/Desktop/Code/Sentience/sdk-python/playground/local_llm
+cd playground/local_llm
 pip install -r requirements.txt
 ```
 

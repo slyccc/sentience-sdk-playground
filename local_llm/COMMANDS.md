@@ -3,7 +3,7 @@
 All commands should be run from the `local_llm` directory:
 
 ```bash
-cd /Users/guoliangwang/Desktop/Code/Sentience/sdk-python/playground/local_llm
+cd playground/local_llm
 ```
 
 ---

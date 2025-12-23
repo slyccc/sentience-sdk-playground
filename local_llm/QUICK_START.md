@@ -4,7 +4,7 @@
 
 ```bash
 # 1. Navigate to directory
-cd /Users/guoliangwang/Desktop/Code/Sentience/sdk-python/playground/local_llm
+cd playground/local_llm
 
 # 2. Optional: Free up space (~4.5 GB)
 npm cache clean --force && pip cache purge && brew cleanup -s
@@ -74,7 +74,7 @@ bash cleanup_mac_cache.sh
 ### Step 1: Navigate to Directory
 
 ```bash
-cd /Users/guoliangwang/Desktop/Code/Sentience/sdk-python/playground/local_llm
+cd playground/local_llm
 ```
 
 ### Step 2: Install Dependencies
