@@ -21,6 +21,7 @@ export function Navbar() {
           </p>
         </div>
         <nav className="flex items-center gap-4">
+          <NavLink href="/about">About</NavLink>
           <NavLink href="/login">Login</NavLink>
           <NavLink href="/profile">Profile</NavLink>
           <NavLink href="/dashboard">Dashboard</NavLink>
