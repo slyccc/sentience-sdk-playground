@@ -13,6 +13,13 @@ export function Navbar() {
         <Link href="/" className="font-semibold tracking-tight">
           Local Llama Land
         </Link>
+        <div className="hidden flex-1 px-6 text-center md:block">
+          <p className="text-xs text-white/50">
+            A public SPA playground for testing browser agents.
+            <br />
+            Includes delayed hydration, dynamic state, and realistic login flows.
+          </p>
+        </div>
         <nav className="flex items-center gap-4">
           <NavLink href="/login">Login</NavLink>
           <NavLink href="/profile">Profile</NavLink>
