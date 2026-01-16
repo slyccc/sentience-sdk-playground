@@ -11,7 +11,7 @@ export function Navbar() {
     <header className="border-b border-white/10 bg-black/20">
       <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-4">
         <Link href="/" className="font-semibold tracking-tight">
-          Local LLama Land
+          Local Llama Land
         </Link>
         <nav className="flex items-center gap-4">
           <NavLink href="/login">Login</NavLink>
